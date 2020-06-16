@@ -1,4 +1,4 @@
-# my-website
+# My-website
 
 
 
@@ -8,3 +8,8 @@ New editing 1.3
 
 Furthre editing 1.4
 New line 1.5
+
+## Repository Purpose
+
+upades 1.7
+sfkjasfkjasf
